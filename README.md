@@ -1,6 +1,6 @@
-# Auto\-Save Documents in Word Processor 
+# Auto\-Save Documents in JavaScript (ES6) DOCX Editor 
 
-This repository provides a working example of how to automatically save documents every few seconds in the Syncfusion® Document Editor (a.k.a. Word Processor). It demonstrates how to configure an efficient auto\-save mechanism that preserves user changes without manual intervention, helping prevent data loss in web\-based editing scenarios. 
+This repository provides a working example of how to automatically save documents every few seconds in the [JavaScript (ES6) DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/javascript-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor). It demonstrates how to configure an efficient auto\-save mechanism that preserves user changes without manual intervention, helping prevent data loss in web\-based editing scenarios. 
 
 
 # How It Works 
@@ -12,13 +12,14 @@ This repository provides a working example of how to automatically save document
 
 - This ensures real\-time persistence and minimizes data loss.
 
-# Resources 
+# Resources
 
-- **Product page:**  [Syncfusion® Javascript Word Processor](https://www.syncfusion.com/javascript-ui-controls/js-docx-editor) 
+- **Product page:**   [Syncfusion® JavaScript (ES6) DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/javascript-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Documentation:**  [Syncfusion® Word Processor](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es5/overview) 
+- **Documentation:**   [Syncfusion® JavaScript (ES6) DOCX Editor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es6/overview?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Online demo:**  [Syncfusion® Word Processor - Demo](https://ej2.syncfusion.com/demos/) 
+- **Online demo:**   [Syncfusion® JavaScript (ES6) DOCX Editor - Online demo](https://document.syncfusion.com/demos/docx-editor/javascript/#/material3/document-editor/default.html?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
+
 
 # Support and feedback 
 
