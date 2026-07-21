@@ -7,7 +7,7 @@ import { Button } from '@syncfusion/ej2-buttons';
  */
 
     
-    let hostUrl: string = 'https://ej2services.syncfusion.com/production/web-services/';
+    let hostUrl: string = 'https://document.syncfusion.com/web-services/docx-editor/';
     let contentChanged: boolean = false;
     let container: DocumentEditorContainer = new DocumentEditorContainer({ enableToolbar: true,height:'590px' });
     DocumentEditorContainer.Inject(Toolbar);
